@@ -1,3 +1,5 @@
+## Joint Work with mchara01
+
 ## Library for Processing WAV Audio Files
 
 Information about WAV files and their structure can be found here: http://en.wikipedia.org/wiki/WAV
