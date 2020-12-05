@@ -1,4 +1,4 @@
-## Joint Work with mchara01
+Joint Work with mchara01
 
 ## Library for Processing WAV Audio Files
 
